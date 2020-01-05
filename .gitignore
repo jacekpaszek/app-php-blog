@@ -1,0 +1,4 @@
+assets-prod
+node_modules
+app-config.php
+package-lock.json

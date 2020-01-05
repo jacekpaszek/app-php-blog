@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0"
+  },
+  "scripts": {
+    "buildapp": "gulp buildcss && gulp copyimages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacekpaszek/app-php-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacekpaszek/app-php-blog/issues"
+  },
+  "homepage": "https://github.com/jacekpaszek/app-php-blog#readme"
+}
