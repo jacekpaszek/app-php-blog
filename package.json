@@ -6,7 +6,8 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.7.0"
+    "gulp-clean-css": "^3.7.0",
+    "readable-stream": "^3.4.0"
   },
   "scripts": {
     "buildapp": "gulp buildcss && gulp copyimages"
